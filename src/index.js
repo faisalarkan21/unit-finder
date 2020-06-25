@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'antd/dist/antd.css';
+// import "react-image-gallery/styles/css/image-gallery.css";
 import './index.css';
-import App from './App';
+import App from './Root';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
